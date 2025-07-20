@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 <code><a href="https://redis.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/redis.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://about.gitlab.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/gitlab.png?raw=true"/></a></code>
-&nbsp; 
- 
+&nbsp;<br/>
+
   <div align="right">
       <a href="https://www.linkedin.com/in/adriano-x-38692020a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <details>
 <summary>:headphones: :guitar: :drum:</summary>
 
-[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/gothboyclick)
+[Rage Against The Machine - Sleep Now in the Fire](https://github.com/gothboyclick/gothboyclick/assets/ratm.mp4)
 
 </details>
 </div>
