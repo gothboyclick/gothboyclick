@@ -18,9 +18,9 @@ Here are some ideas to get you started:
  ⚡ Fato Engraçado: 4 KB de RAM levaram o homem a lua e eu com 16 GB não consigo rodar o Android Studio sem travar o computador
 ------
  <div align="center">
-  <a href="https://github.com/gothboyclick">
+  <a href="https://github.com/gothboyclick">\n
    <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://joaopauloaramuni.github.io/image/bash.png?raw=true"/></a></code>
-&nbsp; 
+&nbsp; \n 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gothboyclick&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gothboyclick&layout=compact&langs_count=7&theme=dark"/>
 </div>
